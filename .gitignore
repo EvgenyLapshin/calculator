@@ -7,6 +7,4 @@
 # Docker
 /.data
 /logs
-
-/var/
 /vendor/
