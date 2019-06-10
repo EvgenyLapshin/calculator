@@ -5,8 +5,6 @@
 .DS_Store
 
 # Docker
-/nginx/conf.d/
-/php-fpm/conf.d/
 /.data
 /logs
 
