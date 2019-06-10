@@ -1,0 +1,15 @@
+{
+    "name": "evgenylapshin/calculator",
+    "license": "MIT",
+    "type": "project",
+    "description": "The \"Calculator\" distribution",
+    "autoload": {
+        "psr-4": {
+            "Calculator\\": "calculator/"
+        }
+    },
+    "require": {
+        "php": "^7.2",
+        "phpunit/phpunit": "^8"
+    }
+}
